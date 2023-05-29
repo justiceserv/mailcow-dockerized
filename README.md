@@ -17,7 +17,7 @@ Or just spread the word: moo.
 
 This repository is specifically for HA Setup with two Oracle Cloud ARM Servers. 
 
-Check out my [blog documentation][https://blog.justi.es] to check high availability cofiguration.
+Check out my [blog documentation](https://blog.justi.es) to check high availability cofiguration.
 
 Please see [the official documentation](https://mailcow.github.io/mailcow-dockerized-docs/) for installation and support instructions. 🐄
 
