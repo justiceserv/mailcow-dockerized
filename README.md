@@ -13,6 +13,12 @@ Or just spread the word: moo.
 
 ## Info, documentation and support
 
+**This is NOT Official Mailcow Repository AND IS NOT COMPLETE**
+
+This repository is specifically for HA Setup with two Oracle Cloud ARM Servers. 
+
+Check out my [blog documentation][https://blog.justi.es] to check high availability cofiguration.
+
 Please see [the official documentation](https://mailcow.github.io/mailcow-dockerized-docs/) for installation and support instructions. 🐄
 
 🐛 **If you found a critical security issue, please mail us to [info at servercow.de](mailto:info@servercow.de).**
